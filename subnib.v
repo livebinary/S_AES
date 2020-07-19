@@ -1,4 +1,3 @@
- 
 module subnib(suin,suout);
 input [7:0]suin;
 output [7:0]suout;
